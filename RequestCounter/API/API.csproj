@@ -12,4 +12,8 @@
       <ProjectReference Include="..\RequestCounter.Services\RequestCounter.Services.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="RequestCounter.sln" />
+    </ItemGroup>
+
 </Project>
